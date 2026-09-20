@@ -19,7 +19,7 @@ A personalized **book recommendation system** built with Python and **Streamlit*
 1. **Clone the repository**:
 
    ```bash
-   git clone https://github.com/pinkaofc/Book-Recommender-System
+   git clone https://github.com/anaschouhan001/Book-Recommender-System
    cd Book-Recommender-System
    ```
 
