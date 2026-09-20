@@ -55,7 +55,7 @@ A personalized **book recommendation system** built with Python and **Streamlit*
    streamlit run app.py
    ```
 
-The app will open in your default web browser at [http://localhost:8501](http://localhost:8501).
+The app will open in your default web browser at [http://localhost:8501]
 
 ---
 
